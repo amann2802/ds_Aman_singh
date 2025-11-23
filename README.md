@@ -3,7 +3,7 @@
 
 Analyzing the Impact of Market Sentiment (Fear & Greed Index) on Trading Activity and Profitability
 
- Project Description
+Project Description
 
 This project analyzes how the Fear & Greed Index influences overall market behavior using daily trading activity and PnL data.
 The goal is to identify whether market sentiment (Fear or Greed) has a measurable effect on:
